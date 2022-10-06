@@ -1,0 +1,15 @@
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\bin\Debug\net6.0\HiLo.exe
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\bin\Debug\net6.0\HiLo.deps.json
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\bin\Debug\net6.0\HiLo.runtimeconfig.json
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\bin\Debug\net6.0\HiLo.dll
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\bin\Debug\net6.0\HiLo.pdb
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.csproj.AssemblyReference.cache
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.AssemblyInfoInputs.cache
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.AssemblyInfo.cs
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.csproj.CoreCompileInputs.cache
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.dll
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\refint\HiLo.dll
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.pdb
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\HiLo.genruntimeconfig.cache
+C:\Users\Justins-Laptop\Documents\GitHub\HiLo\obj\Debug\net6.0\ref\HiLo.dll
